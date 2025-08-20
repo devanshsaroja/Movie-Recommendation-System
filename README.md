@@ -2,7 +2,7 @@
 
 
 # Movie Recommendation System
-
+![Website Screenshot](image.png)
 This is a **Movie Recommendation System** built using **Streamlit**, **Pandas**, **Pickle**, and **The Movie Database (TMDb) API**. The system recommends movies based on a user's input by finding similar movies from a preprocessed dataset of movies.
 
 ## Features
